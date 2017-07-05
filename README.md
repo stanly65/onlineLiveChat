@@ -1,5 +1,5 @@
-# Оnline Live Chat
-SoftUni Тeamwork
+# Оnline Live Chat 
+SoftUni Тeamwork - EXERCISE: CREATING A UI PROTOTYPE
 
 Tasks:
 1. Send messages anonymously under a nickname
