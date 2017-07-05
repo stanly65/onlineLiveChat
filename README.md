@@ -1,5 +1,5 @@
-# onlineLiveChat
-SoftUni teamwork
+# Оnline Live Chat
+SoftUni Тeamwork
 
 Tasks:
 1. Send messages anonymously under a nickname
